@@ -6,9 +6,8 @@ I’m a Software Developer with **4+ years of experience** building scalable web
 
 🌐 **Portfolio:** [shaishavrastogi-portfolio.vercel.app](https://shaishavrastogi-portfolio.vercel.app/)  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shaishav-rastogi-8192971b7/)  
-📧 **Email:** [peperastogi@gmail.com](mailto:peperastogi@gmail.com)  
+📧 **Email:** [rastogishaishav@gmail.com](mailto:rastogishaishav@gmail.com)  
 🐙 **GitHub:** [@Shaishav0507](https://github.com/Shaishav0507)  
-📸 **Instagram:** [@shaishav_rastogi05](https://www.instagram.com/shaishav_rastogi05/)
 
 ---
 
